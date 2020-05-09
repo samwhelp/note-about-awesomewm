@@ -16,6 +16,7 @@ nav_order: 90
 
 ## Subject
 
+* [start](#start)
 * [screen](#screen)
 * [wallpaper](#wallpaper)
 * [wibox](#wibox)
@@ -28,6 +29,12 @@ nav_order: 90
 
 ## Demo
 
+### start
+
+* [demo-config-zero](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-zero)
+* [demo-config-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-start)
+* [demo-config-awesome-default](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-awesome-default)
+* [demo-config-awesome-github-master](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-awesome-github-master)
 
 ### screen
 
