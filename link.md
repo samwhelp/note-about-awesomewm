@@ -1,9 +1,9 @@
 ---
-title: Link
+title: 連結
 nav_order: 99
 ---
 
-# Link
+# 連結
 
 
 ## Awesome WM
