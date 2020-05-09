@@ -67,8 +67,13 @@ $ ./run-awesome-on-xephyr.sh
 
 * [demo-config-zero](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-zero)
 
+
 ## 相關範例
 
 請參考「[範例](https://samwhelp.github.io/note-about-awesome-wm/read/demo.html)」那個頁面，有紀錄很多的範例連結。
 
 這些範例，大多都有附上「xephyr 測試腳本」。
+
+我也使用「xephyr」來測試其他的「Window Manager」，
+
+所以我也寫了一些「xephyr 測試腳本」放在「[GitHub](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/tool/xephyr)」上。
