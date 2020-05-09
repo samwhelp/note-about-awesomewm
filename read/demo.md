@@ -37,15 +37,17 @@ $ sudo apt-get install ubuntu-wallpapers-bionic
 
 ## Subject
 
-* [start](#start)
-* [screen](#screen)
-* [wallpaper](#wallpaper)
-* [wibox](#wibox)
-* [theme](#theme)
-* [wibar](#wibar)
-* [wibox-layout](#wibox-layout)
-* [keybind](#keybind)
-* [layoutbox](#layoutbox)
+| Subject |
+| --- |
+| [start](#start) |
+| [screen](#screen) |
+| [wallpaper](#wallpaper) |
+| [wibox](#wibox) |
+| [theme](#theme) |
+| [wibar](#wibar) |
+| [wibox-layout](#wibox-layout) |
+| [keybind](#keybind) |
+| [layoutbox](#layoutbox) |
 
 
 ## Demo
