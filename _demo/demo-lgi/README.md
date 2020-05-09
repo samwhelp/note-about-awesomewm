@@ -3,9 +3,9 @@
 
 ## Package
 
-* [lua-lgi](https://packages.ubuntu.com/bionic/lua-lgi)
+* [lua-lgi](https://packages.ubuntu.com/focal/lua-lgi)
 
 ## Package / Sample
 
-* [lua-lgi-dev](https://packages.ubuntu.com/bionic/lua-lgi-dev) ([filelist](https://packages.ubuntu.com/bionic/amd64/lua-lgi-dev/filelist))
+* [lua-lgi-dev](https://packages.ubuntu.com/focal/lua-lgi-dev) ([filelist](https://packages.ubuntu.com/focal/amd64/lua-lgi-dev/filelist))
 * GtiHub / [lgi](https://github.com/pavouk/lgi) / [samples](https://github.com/pavouk/lgi/tree/master/samples)
