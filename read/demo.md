@@ -10,7 +10,9 @@ nav_order: 90
 
 ## 注意事項
 
-要注意的是，[有些範例](https://github.com/samwhelp/note-about-awesome-wm/blob/gh-pages/_demo/demo-develop/wallpaper/demo-screen-request-wallpaper/rc.lua)，有使用當「/usr/share/backgrounds/Spices_in_Athens_by_Makis_Chourdakis.jpg」這個圖片，
+要注意的是，[有些範例](https://github.com/samwhelp/note-about-awesome-wm/blob/gh-pages/_demo/demo-develop/wallpaper/demo-screen-request-wallpaper/rc.lua)，
+
+有使用到「/usr/share/backgrounds/Spices_in_Athens_by_Makis_Chourdakis.jpg」這個圖片，
 
 來當作桌面的背景圖片，所以需要這個檔案。
 
@@ -22,7 +24,9 @@ nav_order: 90
 $ sudo apt-get install ubuntu-wallpapers-bionic
 ```
 
-或是也可以自行修改這些範例，改成您自己環境裡面的圖片，就不需要安裝「ubuntu-wallpapers-bionic」。
+或是也可以自行修改這些範例，改成您自己環境裡面的圖片，
+
+就不需要安裝「ubuntu-wallpapers-bionic」。
 
 
 ## Doc
