@@ -12,7 +12,7 @@ nav_order: 90
 
 要注意的是，[有些範例](https://github.com/samwhelp/note-about-awesome-wm/blob/gh-pages/_demo/demo-develop/wallpaper/demo-screen-request-wallpaper/rc.lua)，
 
-有使用到「/usr/share/backgrounds/Spices_in_Athens_by_Makis_Chourdakis.jpg」這個圖片，
+有使用到「[/usr/share/backgrounds/Spices_in_Athens_by_Makis_Chourdakis.jpg](https://packages.ubuntu.com/focal/all/ubuntu-wallpapers-bionic/filelist)」這個圖片，
 
 來當作桌面的背景圖片，所以需要這個檔案。
 
