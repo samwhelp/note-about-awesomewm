@@ -104,7 +104,9 @@ $ sudo dpkg -i build/*.deb
 
 ### 安裝「xsession desktop entry」檔
 
-執行下面指令，安裝「xsession desktop entry」檔，安裝到「/usr/share/xsessions/awesome.desktop」這個路徑。
+執行下面指令，安裝「xsession desktop entry」檔，
+
+安裝到「/usr/share/xsessions/awesome.desktop」這個路徑。
 
 ```sh
 $ sudo install -m 644 /usr/local/share/xsessions/awesome.desktop /usr/share/xsessions/awesome.desktop
@@ -157,3 +159,4 @@ ii  awesome        4.3.0.0~git850-g9781f14b amd64        A tiling window manager
 
 * [build-install from github-master](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-awesome-github-master)
 * play-ubuntu-20.04-plan / prototype / [awesome](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/prototype/awesome) / [build-install.sh](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/awesome/build-install.sh)
+* [demo-config-zero](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-zero)
