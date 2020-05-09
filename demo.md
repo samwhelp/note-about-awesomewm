@@ -16,14 +16,14 @@ nav_order: 90
 
 ## Subject
 
-* [screen](screen)
-* [wallpaper](wallpaper)
-* [wibox](wibox)
-* [theme](theme)
-* [wibar](wibar)
-* [wibox-layout](wibox-layout)
-* [keybind](keybind)
-* [layoutbox](layoutbox)
+* [screen](#screen)
+* [wallpaper](#wallpaper)
+* [wibox](#wibox)
+* [theme](#theme)
+* [wibar](#wibar)
+* [wibox-layout](#wibox-layout)
+* [keybind](#keybind)
+* [layoutbox](#layoutbox)
 
 
 ## Demo
