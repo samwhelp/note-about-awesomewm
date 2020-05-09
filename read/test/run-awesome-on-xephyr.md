@@ -23,7 +23,7 @@ sudo apt-get install xserver-xephyr
 撰寫一個檔案「[run-awesome-on-xephyr.sh](https://github.com/samwhelp/note-about-awesome-wm/blob/gh-pages/_demo/demo-start/demo-config-zero/bin/dev.sh)」，內容如下
 
 
-```
+``` sh
 #!/usr/bin/env bash
 
 Xephyr :100 -ac -screen 1280x680 &
