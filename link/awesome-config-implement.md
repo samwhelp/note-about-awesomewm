@@ -1,5 +1,5 @@
 ---
-title:  實做 / 連結
+title:  實做案例
 nav_order: 99
 parent: 連結
 ---
