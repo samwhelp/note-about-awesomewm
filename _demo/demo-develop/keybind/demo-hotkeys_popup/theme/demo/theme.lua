@@ -6,6 +6,8 @@ theme.bg_normal = "#222222"
 theme.fg_normal = "#aaaaaa"
 
 -- https://awesomewm.org/doc/api/libraries/awful.hotkeys_popup.widget.html#beautiful.hotkeys_border_width
-theme.hotkeys_border_width = 1
+theme.hotkeys_border_width = 2
+
+theme.wallpaper = "/usr/share/backgrounds/Spices_in_Athens_by_Makis_Chourdakis.jpg"
 
 return theme
