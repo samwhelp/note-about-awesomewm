@@ -11,6 +11,7 @@ parent: 連結
 * [https://www.reddit.com/r/awesomewm/](https://www.reddit.com/r/awesomewm/)
 * [https://www.reddit.com/r/desktops/](https://www.reddit.com/r/desktops/)
 * [https://www.reddit.com/r/unixporn/](https://www.reddit.com/r/unixporn/)
+* GitHub / awesome / [Screenshots](https://github.com/awesomeWM/awesome/issues/1395)
 
 
 ## worron/awesome-config
