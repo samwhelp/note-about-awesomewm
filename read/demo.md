@@ -97,6 +97,8 @@ $ sudo apt-get install ubuntu-wallpapers-bionic
 
 * [keybind/demo-keybind-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/keybind/demo-keybind-start)
 * [keybind/demo-hotkeys_popup](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/keybind/demo-hotkeys_popup)
+* [demo-case-onlyfloat-notitlebar-nopanel](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/keybind/demo-case-onlyfloat-notitlebar-nopanel)
+* [demo-case-onlytile-notitlebar-nopanel](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/keybind/demo-case-onlytile-notitlebar-nopanel)
 
 
 ### layoutbox
