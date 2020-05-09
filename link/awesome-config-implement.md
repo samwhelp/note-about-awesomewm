@@ -50,5 +50,5 @@ parent: 連結
 
 ## awesome_horizon
 
-* [https://github.com/arndtphillip/dotfiles](https://github.com/arndtphillip/dotfiles)
+* [https://github.com/arndtphillip/dotfiles/tree/master/.config/awesome](https://github.com/arndtphillip/dotfiles/tree/master/.config/awesome)
 * [https://www.reddit.com/r/unixporn/comments/ga7isf/awesome_horizon/](https://github.com/arndtphillip/dotfiles)
