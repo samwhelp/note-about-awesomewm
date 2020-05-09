@@ -59,52 +59,53 @@ $ sudo apt-get install ubuntu-wallpapers-bionic
 
 ### screen
 
-* [screen/demo-connect_for_each_screen](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/screen/demo-connect_for_each_screen)
-* [screen/demo-connect_signal-request_desktop_decoration](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/screen/demo-connect_signal-request_desktop_decoration)
+* [demo-connect_for_each_screen](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/screen/demo-connect_for_each_screen)
+* [demo-connect_signal-request_desktop_decoration](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/screen/demo-connect_signal-request_desktop_decoration)
 
 
 ### wallpaper
 
-* [wallpaper/demo-set_color](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wallpaper/demo-set_color)
-* [wallpaper/demo-set_image_maximized](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wallpaper/demo-set_image_maximized)
-* [wallpaper/demo-screen-request-wallpaper](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wallpaper/demo-screen-request-wallpaper)
+* [demo-set_color](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wallpaper/demo-set_color)
+* [demo-set_image_maximized](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wallpaper/demo-set_image_maximized)
+* [demo-screen-request-wallpaper](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wallpaper/demo-screen-request-wallpaper)
 
 ### wibox
 
 
-* [wibox/demo-wibox-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wibox/demo-wibox-start)
-* [wibox/demo-wibox-bg-transparent](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wibox/demo-wibox-bg-transparent)
+* [demo-wibox-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wibox/demo-wibox-start)
+* [demo-wibox-bg-transparent](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wibox/demo-wibox-bg-transparent)
 
 
 ### theme
 
 
-* [theme/demo-theme-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/theme/demo-theme-start)
-* [theme/demo-theme-wibox](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/theme/demo-theme-wibox)
+* [demo-theme-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/theme/demo-theme-start)
+* [demo-theme-wibox](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/theme/demo-theme-wibox)
 
 ### wibar
 
-* [wibar/demo-wibar-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wibar/demo-wibar-start)
-* [wibar/demo-wibar-bg-transparent](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wibar/demo-wibar-bg-transparent)
+* [demo-wibar-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wibar/demo-wibar-start)
+* [demo-wibar-bg-transparent](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wibar/demo-wibar-bg-transparent)
 
 
 ### wibox-layout
 
-* [wibox-layout/demo-wibox-layout-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wibox-layout/demo-wibox-layout-start)
+* [demo-wibox-layout-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/wibox-layout/demo-wibox-layout-start)
 
 
 ### keybind
 
-* [keybind/demo-keybind-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/keybind/demo-keybind-start)
-* [keybind/demo-hotkeys_popup](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/keybind/demo-hotkeys_popup)
+* [demo-keybind-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/keybind/demo-keybind-start)
+* [demo-hotkeys_popup](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/keybind/demo-hotkeys_popup)
 * [demo-case-onlyfloat-notitlebar-nopanel](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/keybind/demo-case-onlyfloat-notitlebar-nopanel)
 * [demo-case-onlytile-notitlebar-nopanel](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/keybind/demo-case-onlytile-notitlebar-nopanel)
 
 
 ### layoutbox
 
-* [layoutbox/demo-layoutbox-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-start)
-* [layoutbox/demo-layoutbox-work](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-work)
-* [layoutbox/demo-layoutbox-request-default_layouts](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-request-default_layouts)
-* [layoutbox/demo-layoutbox-work-client](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-work-client)
-* [layoutbox/demo-layoutbox-work-client-titlebar](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-work-client-titlebar)
+* [demo-layoutbox-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-start)
+* [demo-layoutbox-work](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-work)
+* [demo-layoutbox-request-default_layouts](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-request-default_layouts)
+* [demo-layoutbox-work-client](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-work-client)
+* [demo-layoutbox-work-client-titlebar](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-work-client-titlebar)
+
