@@ -68,6 +68,11 @@ show
 request::desktop_decoration
 ```
 
+
 ## Reference
 
-* [https://awesomewm.org/doc/api/classes/wibox.html](https://awesomewm.org/doc/api/classes/wibox.html)
+* [https://awesomewm.org/apidoc/popups_and_bars/wibox.html#border_color](https://awesomewm.org/apidoc/popups_and_bars/wibox.html#border_color)
+* [https://awesomewm.org/apidoc/popups_and_bars/wibox.html#bg](https://awesomewm.org/apidoc/popups_and_bars/wibox.html#bg)
+* [https://awesomewm.org/apidoc/popups_and_bars/wibox.html#beautiful.bg_normal](https://awesomewm.org/apidoc/popups_and_bars/wibox.html#beautiful.bg_normal)
+* [https://awesomewm.org/apidoc/theme_related_libraries/gears.color.html](https://awesomewm.org/apidoc/theme_related_libraries/gears.color.html)
+
