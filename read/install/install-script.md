@@ -82,7 +82,11 @@ $ make install
 
 例如，我慣用「[pcmanfm-qt](https://packages.ubuntu.com/focal/pcmanfm-qt)」，您也可以改成「[thunar](https://packages.ubuntu.com/focal/thunar)」。
 
-基本上不會有太大的影響，只是我有綁定「alt + shift + f」會啟動「[pcmanfm-qt](http://manpages.ubuntu.com/manpages/focal/en/man1/pcmanfm-qt.1.html)」，到時可以自己修改「rc.lua」就可以了，不改，操作也不會有特別的影響。
+基本上不會有太大的影響，只是我有綁定「alt + shift + f」會啟動「[pcmanfm-qt](http://manpages.ubuntu.com/manpages/focal/en/man1/pcmanfm-qt.1.html)」，
+
+到時可以自己修改「rc.lua」就可以了，
+
+不改，操作也不會有特別的影響。
 
 
 ## 關於修改「~/.config/awesome/rc.lua」
@@ -90,9 +94,11 @@ $ make install
 
 觀看「[~/.config/awesome/rc.lua](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/awesome/config/awesome/start/rc.lua)」，可以了解到，有多個「style」提供作選擇，
 
-預設是載入「style.experiment_onepanel.rc」，所以可以自己修改「[~/.config/awesome/rc.lua](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/awesome/config/awesome/start/rc.lua)」，
+預設是載入「style.experiment_onepanel.rc」，
 
-選擇不同的「style」來載入，若已經在「awesome」的環境了，一些「style」我有設定「alt + shift + c」，重新啟動「awesome」。
+所以可以自己修改「[~/.config/awesome/rc.lua](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/awesome/config/awesome/start/rc.lua)」，選擇不同的「style」來載入，
+
+若已經在「awesome」的環境了，一些「style」我有設定「alt + shift + c」，重新啟動「awesome」。
 
 
 ## style
@@ -146,7 +152,7 @@ $ make install
 
 | style |
 | --- |
-| style.experiment.rc' |
+| style.experiment.rc |
 
 
 ## 按鍵綁定
