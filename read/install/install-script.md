@@ -86,7 +86,7 @@ $ make install
 
 到時可以自己修改「rc.lua」就可以了，
 
-不改，操作也不會有特別的影響。
+不改，操作上也不會有特別的影響。
 
 
 ## 關於修改「~/.config/awesome/rc.lua」
