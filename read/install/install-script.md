@@ -94,7 +94,7 @@ $ make install
 
 觀看「[~/.config/awesome/rc.lua](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/awesome/config/awesome/start/rc.lua)」，可以了解到，有多個「style」提供作選擇，
 
-預設是載入「style.experiment_onepanel.rc」，
+預設是載入「[style.experiment_onepanel.rc](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/awesome/config/awesome/start/style/experiment_onepanel/rc.lua)」，
 
 所以可以自己修改「[~/.config/awesome/rc.lua](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/awesome/config/awesome/start/rc.lua)」，選擇不同的「style」來載入，
 
