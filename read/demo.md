@@ -16,7 +16,7 @@ nav_order: 90
 
 來當作桌面的背景圖片，所以需要這個檔案。
 
-這個檔案，來自於「Package: [ubuntu-wallpapers-bionic](https://packages.ubuntu.com/focal/ubuntu-wallpapers-bionic)」，
+這個檔案，來自於「Package: [ubuntu-wallpapers-bionic](https://packages.ubuntu.com/focal/ubuntu-wallpapers-bionic) (Ubuntu 18.04 Wallpapers)」，
 
 執行下面指令安裝
 
