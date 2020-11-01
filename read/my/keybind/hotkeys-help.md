@@ -1,6 +1,6 @@
 ---
 title: 快捷鍵提示
-nav_order: 5201
+nav_order: 5210
 parent: 快捷鍵
 ---
 
