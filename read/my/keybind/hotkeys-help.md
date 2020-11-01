@@ -41,6 +41,6 @@ awful.keyboard.append_global_keybindings({
 
 ## 相關文件
 
-* https://awesomewm.org/apidoc/libraries/awful.hotkeys_popup.html#awful.hotkeys_popup.show_help
-* https://awesomewm.org/apidoc/input_handling/awful.keyboard.html#module.append_global_keybindings
-* https://awesomewm.org/apidoc/input_handling/awful.key.html
+* [https://awesomewm.org/apidoc/libraries/awful.hotkeys_popup.html#awful.hotkeys_popup.show_help](https://awesomewm.org/apidoc/libraries/awful.hotkeys_popup.html#awful.hotkeys_popup.show_help)
+* [https://awesomewm.org/apidoc/input_handling/awful.keyboard.html#module.append_global_keybindings](https://awesomewm.org/apidoc/input_handling/awful.keyboard.html#module.append_global_keybindings)
+* [https://awesomewm.org/apidoc/input_handling/awful.key.html](https://awesomewm.org/apidoc/input_handling/awful.key.html)
