@@ -5,13 +5,13 @@
 --
 
 -- Standard awesome library
-local gears = require("gears")
-local awful = require("awful")
-require("awful.autofocus")
+local gears = require('gears')
+local awful = require('awful')
+require('awful.autofocus')
 
 
 -- Widget and layout library
-local wibox = require("wibox")
+local wibox = require('wibox')
 
 --
 -- Tail: Require
@@ -28,13 +28,13 @@ local wibox = require("wibox")
 -- https://github.com/awesomeWM/awesome/blob/master/awesomerc.lua#L118
 -- https://github.com/awesomeWM/awesome/blob/master/lib/awful/screen.lua#L979
 
-screen.connect_signal("request::wallpaper", function(s)
+screen.connect_signal('request::wallpaper', function(s)
 	-- do something
 
 	print('request::wallpaper')
 
 	-- https://awesomewm.org/doc/api/libraries/gears.wallpaper.html#maximized
-	gears.wallpaper.maximized("/usr/share/backgrounds/Spices_in_Athens_by_Makis_Chourdakis.jpg", s)
+	gears.wallpaper.maximized('/usr/share/backgrounds/Spices_in_Athens_by_Makis_Chourdakis.jpg', s)
 
 
 end)
@@ -79,7 +79,7 @@ end)
 --- Head: Tag Layout
 --
 
-screen.connect_signal("request::desktop_decoration", function(s)
+screen.connect_signal('request::desktop_decoration', function(s)
 	-- do something
 
 	print('request::desktop_decoration')
@@ -104,9 +104,9 @@ end)
 -- https://awesomewm.org/doc/api/libraries/awful.spawn.html
 -- https://github.com/awesomeWM/awesome/blob/master/awesomerc.lua#L218
 
-key_super = "Mod4"
-key_alt = "Mod1"
-key_shift = "Shift"
+key_super = 'Mod4'
+key_alt = 'Mod1'
+key_shift = 'Shift'
 
 --
 --- Tail: Key
