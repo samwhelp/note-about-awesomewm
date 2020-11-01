@@ -1,6 +1,6 @@
 ---
 title: 快捷鍵提示
-nav_order: 5110
+nav_order: 5101
 parent: 快捷鍵
 grand_parent: 我的配置
 ---
@@ -11,11 +11,11 @@ grand_parent: 我的配置
 
 ## 快捷鍵
 
-| 快捷鍵 | 說明 |
+| 快捷鍵 | 功能 |
 | --- | --- |
 | `Win + F1` | 快捷鍵提示 |
 
-* [英文](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/awesome/config/awesome/start/spec-keybind.md#hotkeys-help)
+* [英文版說明](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/awesome/config/awesome/start/spec-keybind.md#hotkeys-help)
 
 ## 關鍵範例程式碼片段
 
