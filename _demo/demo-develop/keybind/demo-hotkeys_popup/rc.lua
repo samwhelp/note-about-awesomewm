@@ -4,17 +4,17 @@
 --
 
 -- Standard awesome library
-local gears = require("gears")
-local awful = require("awful")
-require("awful.autofocus")
+local gears = require('gears')
+local awful = require('awful')
+require('awful.autofocus')
 
 
 -- Widget and layout library
-local wibox = require("wibox")
+local wibox = require('wibox')
 
 
 -- Theme handling library
-local beautiful = require("beautiful")
+local beautiful = require('beautiful')
 
 --
 -- Tail: Require
@@ -31,11 +31,11 @@ local beautiful = require("beautiful")
 -- https://awesomewm.org/apidoc/documentation/06-appearance.md.html
 
 
---print("gears.filesystem.get_themes_dir() = " .. gears.filesystem.get_themes_dir())
+--print('gears.filesystem.get_themes_dir() = ' .. gears.filesystem.get_themes_dir())
 
---print("gears.filesystem.get_configuration_dir() = " .. gears.filesystem.get_configuration_dir())
+--print('gears.filesystem.get_configuration_dir() = ' .. gears.filesystem.get_configuration_dir())
 
-beautiful.init(gears.filesystem.get_configuration_dir() .. "theme/demo/theme.lua")
+beautiful.init(gears.filesystem.get_configuration_dir() .. 'theme/demo/theme.lua')
 
 --
 -- Tail: Beautiful
@@ -48,10 +48,10 @@ beautiful.init(gears.filesystem.get_configuration_dir() .. "theme/demo/theme.lua
 
 -- hotkeys_popup
 -- https://github.com/awesomeWM/awesome/blob/master/awesomerc.lua#L19
-local hotkeys_popup = require("awful.hotkeys_popup")
+local hotkeys_popup = require('awful.hotkeys_popup')
 
 --https://github.com/awesomeWM/awesome/tree/master/lib/awful/hotkeys_popup/keys
---require("awful.hotkeys_popup.keys")
+--require('awful.hotkeys_popup.keys')
 
 --
 -- Tail: hotkeys_popup
@@ -68,7 +68,7 @@ local hotkeys_popup = require("awful.hotkeys_popup")
 -- https://github.com/awesomeWM/awesome/blob/master/awesomerc.lua#L118
 -- https://github.com/awesomeWM/awesome/blob/master/lib/awful/screen.lua#L979
 
-screen.connect_signal("request::wallpaper", function(s)
+screen.connect_signal('request::wallpaper', function(s)
 	-- do something
 
 	print('request::wallpaper')
@@ -119,7 +119,7 @@ end)
 --- Head: Tag Layout
 --
 
-screen.connect_signal("request::desktop_decoration", function(s)
+screen.connect_signal('request::desktop_decoration', function(s)
 	-- do something
 
 	print('request::desktop_decoration')
@@ -144,9 +144,9 @@ end)
 -- https://awesomewm.org/doc/api/libraries/awful.spawn.html
 -- https://github.com/awesomeWM/awesome/blob/master/awesomerc.lua#L218
 
-key_super = "Mod4"
-key_alt = "Mod1"
-key_shift = "Shift"
+key_super = 'Mod4'
+key_alt = 'Mod1'
+key_shift = 'Shift'
 
 --
 --- Tail: Key

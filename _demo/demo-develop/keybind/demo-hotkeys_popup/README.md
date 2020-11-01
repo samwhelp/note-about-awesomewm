@@ -74,3 +74,7 @@ request::desktop_decoration
 * [https://awesomewm.org/doc/api/libraries/awful.spawn.html](https://awesomewm.org/doc/api/libraries/awful.spawn.html)
 * [https://github.com/awesomeWM/awesome/blob/master/awesomerc.lua#L19](https://github.com/awesomeWM/awesome/blob/master/awesomerc.lua#L19)
 * [https://github.com/awesomeWM/awesome/blob/master/awesomerc.lua#L218](https://github.com/awesomeWM/awesome/blob/master/awesomerc.lua#L218)
+
+## Explain
+
+* [https://samwhelp.github.io/note-about-awesome-wm/read/my/keybind/hotkeys-help.html](https://samwhelp.github.io/note-about-awesome-wm/read/my/keybind/hotkeys-help.html)
