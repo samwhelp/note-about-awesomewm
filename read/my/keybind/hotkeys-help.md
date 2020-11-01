@@ -16,9 +16,10 @@ grand_parent: 我的配置
 | `Win + F1` | 快捷鍵提示 |
 
 
-## 範例程式碼片段
+## 關鍵範例程式碼片段
 
 ``` lua
+local awful = require('awful')
 local hotkeys_popup = require('awful.hotkeys_popup')
 
 key_super = 'Mod4'
