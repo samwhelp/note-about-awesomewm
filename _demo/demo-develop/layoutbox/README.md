@@ -6,3 +6,4 @@
 * [demo-layoutbox-request-default_layouts](demo-layoutbox-request-default_layouts)
 * [demo-layoutbox-work-client](demo-layoutbox-work-client)
 * [demo-layoutbox-work-client-titlebar](demo-layoutbox-work-client-titlebar)
+* [demo-layoutbox-work-client-titlebar-left](demo-layoutbox-work-client-titlebar-left)

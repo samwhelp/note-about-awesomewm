@@ -110,4 +110,4 @@ $ sudo apt-get install ubuntu-wallpapers-bionic
 * [demo-layoutbox-request-default_layouts](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-request-default_layouts)
 * [demo-layoutbox-work-client](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-work-client)
 * [demo-layoutbox-work-client-titlebar](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-work-client-titlebar)
-
+* [demo-layoutbox-work-client-titlebar-left](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-develop/layoutbox/demo-layoutbox-work-client-titlebar-left)
