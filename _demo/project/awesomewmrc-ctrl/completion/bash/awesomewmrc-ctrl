@@ -1,0 +1,18 @@
+
+## /usr/local/share/bash-completion/completions/awesomewmrc-ctrl
+## $ sudo install -Dm644 ./awesomewmrc-ctrl /usr/local/share/bash-completion/completions/awesomewmrc-ctrl
+
+_awesomewmrc_ctrl () {
+
+	local cur prev words cword
+	_init_completion || return
+
+	if [ "$cword" = "1" ]; then
+		local action_list=$(DEBUG_AWESOMEWMRC_CTRL=false awesomewmrc-ctrl self_actions)
+		COMPREPLY=( $( compgen -W "$action_list" -- "$cur" ) )
+	fi
+
+	return 0
+}
+
+complete -F _awesomewmrc_ctrl awesomewmrc-ctrl
