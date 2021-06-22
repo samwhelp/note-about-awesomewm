@@ -1,0 +1,18 @@
+
+## /usr/local/share/bash-completion/completions/awesomewmrc-get
+## $ sudo install -Dm644 ./awesomewmrc-get /usr/local/share/bash-completion/completions/awesomewmrc-get
+
+_awesomewmrc_get () {
+
+	local cur prev words cword
+	_init_completion || return
+
+	if [ "$cword" = "1" ]; then
+		local action_list=$(DEBUG_AWESOMEWMRC_GET=false awesomewmrc-get self_actions)
+		COMPREPLY=( $( compgen -W "$action_list" -- "$cur" ) )
+	fi
+
+	return 0
+}
+
+complete -F _awesomewmrc_get awesomewmrc-get
