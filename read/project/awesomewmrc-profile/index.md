@@ -5,7 +5,7 @@ has_children: true
 parent: 專案
 ---
 
-# leftwmrc--profile
+# awesomewmrc-profile
 
 
 ## Link
