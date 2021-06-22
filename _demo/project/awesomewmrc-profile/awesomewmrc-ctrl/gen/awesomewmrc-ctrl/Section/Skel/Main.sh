@@ -31,6 +31,9 @@ Example:
 
 		$ $cmd_name self_actions
 
+	## xephyr
+<?php include_once(dirname(__DIR__) . '/Model/xephyr/Usage.sh'); ?>
+
 	## fzf
 <?php include_once(dirname(__DIR__) . '/Model/fzf/Usage.sh'); ?>
 
