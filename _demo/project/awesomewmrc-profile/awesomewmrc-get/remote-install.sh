@@ -17,25 +17,29 @@
 ### Head: Init
 ##
 set -e ## for Exit immediately if a command exits with a non-zero status.
-THE_BASE_DIR_PATH=$(cd -P -- "$(dirname -- "$0")" && pwd -P)
-THE_CMD_FILE_NAME=$(basename $0)
+THE_BASE_DIR_PATH="$(cd -- "$(dirname -- "$0")" ; pwd)"
+THE_CMD_FILE_NAME="$(basename "$0")"
 ##
 ### Tail: Init
 ################################################################################
 
 
 ################################################################################
-### Head: Util_Debug
+### Head: Util / Debug
 ##
 
 util_debug_echo () {
 	if is_debug; then
-		echo "$@" 1>&2;
+		echo "$@" 1>&2
 	fi
 }
 
+util_error_echo () {
+	echo "$@" 1>&2
+}
+
 ##
-### Head: Util_Debug
+### Head: Util / Debug
 ################################################################################
 
 
