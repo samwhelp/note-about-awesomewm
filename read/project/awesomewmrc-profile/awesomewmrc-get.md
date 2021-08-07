@@ -11,7 +11,7 @@ grand_parent: 專案
 
 ## Link
 
-* [awesomewmrc-get](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-get)
+* [awesomewmrc-get](https://github.com/samwhelp/note-about-awesomewm/tree/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-get)
 
 
 ## Usage

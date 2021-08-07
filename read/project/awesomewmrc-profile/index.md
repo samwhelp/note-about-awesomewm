@@ -10,7 +10,7 @@ parent: 專案
 
 ## Link
 
-* [awesomewmrc-profile](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/project/awesomewmrc-profile)
+* [awesomewmrc-profile](https://github.com/samwhelp/note-about-awesomewm/tree/gh-pages/_demo/project/awesomewmrc-profile)
 
 
 ## Tool

@@ -9,7 +9,7 @@ has_children: true
 
 ## 範例
 
-* [demo-config-zero](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-zero)
-* [demo-config-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-start)
-* [demo-config-awesome-default](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-awesome-default)
-* [demo-config-awesome-github-master](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-awesome-github-master)
+* [demo-config-zero](https://github.com/samwhelp/note-about-awesomewm/tree/gh-pages/_demo/demo-start/demo-config-zero)
+* [demo-config-start](https://github.com/samwhelp/note-about-awesomewm/tree/gh-pages/_demo/demo-start/demo-config-start)
+* [demo-config-awesome-default](https://github.com/samwhelp/note-about-awesomewm/tree/gh-pages/_demo/demo-start/demo-config-awesome-default)
+* [demo-config-awesome-github-master](https://github.com/samwhelp/note-about-awesomewm/tree/gh-pages/_demo/demo-start/demo-config-awesome-github-master)

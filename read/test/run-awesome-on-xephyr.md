@@ -20,7 +20,7 @@ sudo apt-get install xserver-xephyr
 
 ### 撰寫 xephyr 測試腳本
 
-撰寫一個檔案「[run-awesome-on-xephyr.sh](https://github.com/samwhelp/note-about-awesome-wm/blob/gh-pages/_demo/demo-start/demo-config-zero/bin/dev.sh)」，內容如下
+撰寫一個檔案「[run-awesome-on-xephyr.sh](https://github.com/samwhelp/note-about-awesomewm/blob/gh-pages/_demo/demo-start/demo-config-zero/bin/dev.sh)」，內容如下
 
 
 ``` sh
@@ -48,7 +48,7 @@ $ chmod u+x run-awesome-on-xephyr.sh
 
 ### 撰寫 awesome rc.lua
 
-撰寫一個檔案「[rc.lua](https://github.com/samwhelp/note-about-awesome-wm/blob/gh-pages/_demo/demo-start/demo-config-zero/rc.lua)」，內容如下，只有一行「[lua](https://www.lua.org/manual/5.3/manual.html#6.1)」指令。
+撰寫一個檔案「[rc.lua](https://github.com/samwhelp/note-about-awesomewm/blob/gh-pages/_demo/demo-start/demo-config-zero/rc.lua)」，內容如下，只有一行「[lua](https://www.lua.org/manual/5.3/manual.html#6.1)」指令。
 
 ```
 print('hi')
@@ -57,7 +57,7 @@ print('hi')
 
 ### 啟動測試
 
-執行下面指令，執行「[run-awesome-on-xephyr.sh](https://github.com/samwhelp/note-about-awesome-wm/blob/gh-pages/_demo/demo-start/demo-config-zero/bin/dev.sh)」。
+執行下面指令，執行「[run-awesome-on-xephyr.sh](https://github.com/samwhelp/note-about-awesomewm/blob/gh-pages/_demo/demo-start/demo-config-zero/bin/dev.sh)」。
 
 ``` sh
 $ ./run-awesome-on-xephyr.sh
@@ -65,12 +65,12 @@ $ ./run-awesome-on-xephyr.sh
 
 ## 完整範例
 
-* [demo-config-zero](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-zero)
+* [demo-config-zero](https://github.com/samwhelp/note-about-awesomewm/tree/gh-pages/_demo/demo-start/demo-config-zero)
 
 
 ## 相關範例
 
-請參考「[範例](https://samwhelp.github.io/note-about-awesome-wm/read/demo.html)」那個頁面，有紀錄很多的範例連結。
+請參考「[範例](https://samwhelp.github.io/note-about-awesomewm/read/demo.html)」那個頁面，有紀錄很多的範例連結。
 
 這些範例，大多都有附上「xephyr 測試腳本」。
 

@@ -77,4 +77,4 @@ request::desktop_decoration
 
 ## Explain
 
-* [https://samwhelp.github.io/note-about-awesome-wm/read/my/keybind/hotkeys-help.html](https://samwhelp.github.io/note-about-awesome-wm/read/my/keybind/hotkeys-help.html)
+* [https://samwhelp.github.io/note-about-awesomewm/read/my/keybind/hotkeys-help.html](https://samwhelp.github.io/note-about-awesomewm/read/my/keybind/hotkeys-help.html)

@@ -5,7 +5,7 @@
 ##
 
 ## * https://github.com/samwhelp/skel-project-plan/blob/gh-pages/demo/sh/standalone/bin/demo-ctrl
-## * https://github.com/samwhelp/note-about-awesome-wm/blob/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-get/awesomewmrc-get
+## * https://github.com/samwhelp/note-about-awesomewm/blob/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-get/awesomewmrc-get
 
 ##
 ### Tail: Url

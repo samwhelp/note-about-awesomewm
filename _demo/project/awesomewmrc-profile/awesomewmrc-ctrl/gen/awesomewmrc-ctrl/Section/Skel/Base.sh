@@ -57,7 +57,7 @@ base_var_init () {
 	THE_CMD_FILE_PATH="${THE_CMD_DIR_PATH}/$THE_CMD_FILE_NAME"
 
 	## https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/project/awesomewmrc-profile/awesomewmrc-ctrl/awesomewmrc-ctrl
-	THE_SELF_UPDATE_URL='https://raw.githubusercontent.com/samwhelp/note-about-awesome-wm/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl/awesomewmrc-ctrl'
+	THE_SELF_UPDATE_URL='https://raw.githubusercontent.com/samwhelp/note-about-awesomewm/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl/awesomewmrc-ctrl'
 
 
 	THE_TMP_DIR_PATH="/tmp"

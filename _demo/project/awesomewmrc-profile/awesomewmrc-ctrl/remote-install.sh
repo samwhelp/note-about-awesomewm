@@ -4,9 +4,9 @@
 ### Head: Url
 ##
 
-# * https://github.com/samwhelp/note-about-awesome-wm/blob/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl/remote-install.sh
-# * https://github.com/samwhelp/note-about-awesome-wm/blob/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl/awesomewmrc-ctrl
-# * https://raw.githubusercontent.com/samwhelp/note-about-awesome-wm/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl/awesomewmrc-ctrl
+# * https://github.com/samwhelp/note-about-awesomewm/blob/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl/remote-install.sh
+# * https://github.com/samwhelp/note-about-awesomewm/blob/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl/awesomewmrc-ctrl
+# * https://raw.githubusercontent.com/samwhelp/note-about-awesomewm/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl/awesomewmrc-ctrl
 
 ##
 ### Tail: Url
@@ -84,8 +84,8 @@ base_var_init () {
 
 
 	## Target
-	## https://github.com/samwhelp/note-about-awesome-wm/blob/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl/awesomewmrc-ctrl
-	THE_TARGET_DOWNLOAD_URL='https://raw.githubusercontent.com/samwhelp/note-about-awesome-wm/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl/awesomewmrc-ctrl'
+	## https://github.com/samwhelp/note-about-awesomewm/blob/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl/awesomewmrc-ctrl
+	THE_TARGET_DOWNLOAD_URL='https://raw.githubusercontent.com/samwhelp/note-about-awesomewm/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl/awesomewmrc-ctrl'
 
 
 	THE_TARGET_FILE_NAME="awesomewmrc-ctrl"

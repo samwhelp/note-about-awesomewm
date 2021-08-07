@@ -51,7 +51,7 @@ $ make build-install
 
 也就是也可以直接「`./build-install.sh`」。
 
-而這個步驟，其實就是直接將「[編譯 github-master 安裝](https://samwhelp.github.io/note-about-awesome-wm/read/install/build-github-master-install.html)」那頁說明的步驟，
+而這個步驟，其實就是直接將「[編譯 github-master 安裝](https://samwhelp.github.io/note-about-awesomewm/read/install/build-github-master-install.html)」那頁說明的步驟，
 
 寫到「[build-install.sh](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/awesome/build-install.sh)」裡。
 

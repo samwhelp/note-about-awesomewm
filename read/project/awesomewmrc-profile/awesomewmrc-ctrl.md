@@ -11,7 +11,7 @@ grand_parent: 專案
 
 ## Link
 
-* [awesomewmrc-ctrl](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl)
+* [awesomewmrc-ctrl](https://github.com/samwhelp/note-about-awesomewm/tree/gh-pages/_demo/project/awesomewmrc-profile/awesomewmrc-ctrl)
 
 
 ## Usage

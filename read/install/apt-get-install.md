@@ -59,6 +59,6 @@ ii  awesome        4.3-4        amd64        highly configurable X window manage
 
 ## 範例
 
-* [apt-get install](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-awesome-default)
-* [demo-config-zero](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-zero)
-* [demo-config-start](https://github.com/samwhelp/note-about-awesome-wm/tree/gh-pages/_demo/demo-start/demo-config-start)
+* [apt-get install](https://github.com/samwhelp/note-about-awesomewm/tree/gh-pages/_demo/demo-start/demo-config-awesome-default)
+* [demo-config-zero](https://github.com/samwhelp/note-about-awesomewm/tree/gh-pages/_demo/demo-start/demo-config-zero)
+* [demo-config-start](https://github.com/samwhelp/note-about-awesomewm/tree/gh-pages/_demo/demo-start/demo-config-start)

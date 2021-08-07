@@ -37,7 +37,7 @@ awful.keyboard.append_global_keybindings({
 
 ## 相關範例
 
-* [簡易範例](https://github.com/samwhelp/note-about-awesome-wm/blob/gh-pages/_demo/demo-develop/keybind/demo-hotkeys_popup/rc.lua#L162)
+* [簡易範例](https://github.com/samwhelp/note-about-awesomewm/blob/gh-pages/_demo/demo-develop/keybind/demo-hotkeys_popup/rc.lua#L162)
 * [程式碼片段](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/awesome/config/awesome/start/style/experiment_onepanel/awesome-gen-rc/Section/Keybind/Awesome.php#L30) / [我的配置](https://github.com/samwhelp/play-ubuntu-20.04-plan/blob/master/prototype/awesome/config/awesome/start/style/experiment_onepanel/rc.lua#L668)
 
 ## 相關文件
