@@ -8,11 +8,6 @@
 * [demo-lgi](demo-lgi)
 
 
-## Tool
-
-* [develop-tool](develop-tool/run-awesome-on-xephyr)
-
-
 ## Wallpaper
 
 ``` sh
